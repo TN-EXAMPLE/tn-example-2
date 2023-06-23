@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktn_docs_template_2=self.webpackChunktn_docs_template_2||[]).push([[6932],{7689:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/tn-docs-template-2/blog/tags/hello","allTagsPath":"/tn-docs-template-2/blog/tags","count":2}')}}]);
